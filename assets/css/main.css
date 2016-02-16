@@ -47,6 +47,11 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+/* Devicon */
+	i {
+	  font-size: 5rem;
+	}
+
 
 /* Box Model */
 
